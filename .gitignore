@@ -1,0 +1,7 @@
+node_modules
+
+# Cruft
+.DS_Store
+
+# next.js
+.next
